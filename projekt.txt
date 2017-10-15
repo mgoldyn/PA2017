@@ -4,6 +4,8 @@ Temat projektu B [link do projektu na github]
 
 1	Bartoszewski	Piotr Marek
 2	Gołdyn	Michał Robert
+Temat projektu A: Program sterujący RGB przez port szeregowy dla arduino [link do projektu na github]
+Temat projektu B: [link do projektu na github]
 3	Górecki	Jakub Wiktor
 4	Grudzień	Natalia Weronika
 5	Gruszka	Jan Krzysztof
